@@ -1,0 +1,22 @@
+div{
+    background-color: pink;
+    height: 100%;
+    width: 50%;
+    border-radius: 2%;
+}
+h2{
+    font-size: 30px;
+}
+h1{
+    text-decoration: underline;
+}
+.inp{
+    margin-left: 5%;
+    padding-bottom: 10px;
+}
+.btn{
+    padding-bottom: 5px;
+}
+ul{
+    font-size: 25px;
+}
